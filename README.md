@@ -65,7 +65,10 @@ To enhance the model, future iterations could:
 
 ### Running the Project
 
-1. **Clone the Repository**:
+1. **Download the Notebook**:
+   - Download `Amazon-Review-Sentiment-Analysis.ipynb` from this repository.
+
+2. **Install Dependencies**:
+   - Open a terminal and run:
    ```bash
-   git clone https://github.com/your-username/Amazon-Review-Sentiment-Analysis.git
-   cd Amazon-Review-Sentiment-Analysis
+   pip install pandas sklearn numpy
